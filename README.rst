@@ -28,8 +28,6 @@ Tested with:
 
 * Python: 3.7, 3.8, 3.9, 3.10
 * Django: 2.2, 3.2, 4.0
-
-.. note::
 * You can view the `Python-Django support matrix here <https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-can-i-use-with-django>`_
 
 Installation
