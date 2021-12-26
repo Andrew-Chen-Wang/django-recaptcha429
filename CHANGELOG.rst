@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2.1.0
+-----
+
+#. Added testing for Django 3.2 and 4.0
+#. Removed support for Django 1.11 and Python 2
+
 2.0.6
 -----
 #. Added testing for Django 3 (no code changes needed).
